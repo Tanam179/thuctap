@@ -1,0 +1,9 @@
+Gửi anh Nguyên
+-Bài em làm dùng công cụ: VsCode
+-Thư viện hỗ trợ: Owl-Carousel (slider)
+-Bài em làm được khoảng: 90% (có responsive)
+-Ngôn ngữ em sử dụng: HTML CSS JS
+-Dạ em có đẩy trang web em lên link: tanam-thuctap-tuan2.surge.sh (anh có thể vào xem thử ạ)
+-Mong được anh chỉ dạy thêm
+
+Tá Nam

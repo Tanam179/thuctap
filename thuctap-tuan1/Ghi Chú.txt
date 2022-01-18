@@ -1,0 +1,5 @@
+--Ngôn ngữ mà em đã dùng: HTML - CSS - JS
+--Công cụ hỗ trợ mà em đã dùng: VsCode
+--Thư viện hỗ trợ mà em đã dùng: Owl-Carousel (Slider)
+--Tình trạng của trang web của em (95%)
+--Trang web của em có phần nav ở dạng mobile là không giống với yêu cầu anh đưa ra.
